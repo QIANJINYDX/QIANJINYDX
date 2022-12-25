@@ -9,7 +9,7 @@ I'm XYY, an undergraduate student at IMU.
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at IMU
 -   :man: Pronouns: he/him
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/QIANJINYDX/QIANJINYDX/discussions/new)!
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
 ---
 
 
