@@ -14,9 +14,9 @@ I'm XYY, an undergraduate student at IMU.
 
 
 ## :game_die: Join my community Connect Four game!
-![](https://img.shields.io/badge/Moves%20played-7397-blue)
-![](https://img.shields.io/badge/Completed%20games-402-brightgreen)
-![](https://img.shields.io/badge/Total%20players-1099-orange)
+![](https://img.shields.io/badge/Moves%20played-642-blue)
+![](https://img.shields.io/badge/Completed%20games-243-brightgreen)
+![](https://img.shields.io/badge/Total%20players-351-orange)
 
 Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
