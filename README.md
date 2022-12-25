@@ -6,7 +6,7 @@
 I'm XYY, an undergraduate student at IMU.
 
 -   :hammer_and_pick: C++ / Python / Pytorch / C# / Android / Qt
--   :pencil2: [PyTorch](https://pytorch.org/docs/stable/index.html) / [Unity3D](https://docs.unity.cn/cn/current/Manual/index.html) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
+-   :pencil2: [PyTorch](https://pytorch.org/docs/stable/index.html) / [Unity3D](https://docs.unity.cn/cn/current/Manual/index.html) / [Android](https://developer.android.google.cn/) / [Python](https://www.python.org/) / [TensorFlow](https://tensorflow.google.cn/)
 -   :seedling: Taking courses & doing assignments at IMU
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Issues](https://github.com/QIANJINYDX/QIANJINYDX/issues)!
