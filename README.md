@@ -1,10 +1,17 @@
-# Hey, I'm Jonathan 👋
+## Hey ! :wave: My ![Visitor Count](https://profile-counter.glitch.me/QIANJINYDX/count.svg) friends!
 
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=QIANJINYDX&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-Nice to meet you! I'm currently working at GitHub as a software engineer.
-I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
-I've previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer, Shopify's Experimentation Platform as a data developer, Shopify Checkout as a backend developer, and Shopify's Caching Platform as a production engineer.
+I'm XYY, an undergraduate student at IMU.
+
+-   :hammer_and_pick: C++ / Python / Pytorch / C# / Android / Qt
+-   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
+-   :seedling: Taking courses & doing assignments at IMU
+-   :man: Pronouns: he/him
+-   :thought_balloon: Ask me anything at [Issues](https://github.com/QIANJINYDX/QIANJINYDX/issues)!
+---
+
 
 ## :game_die: Join my community Connect Four game!
 ![](https://img.shields.io/badge/Moves%20played-7397-blue)
