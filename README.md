@@ -32,26 +32,3 @@ It is the **red** team's turn to play.
 |![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|
 
 Tired of waiting? [Request a move](https://github.com/QIANJINYDX/QIANJINYDX/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) from Connect4Bot :robot: 
-
-Interested in how everything works? [Click here](https://github.com/JonathanGin52/JonathanGin52/tree/main/connect4) to read up on what's happening behind the scenes.
-
-**:alarm_clock: Most recent moves**
-| Team | Move | Made by |
-| ---- | ---- | ------- |
-| Blue | 7 | [@totti-rdz](https://github.com/totti-rdz) |
-| Red | 7 | [@SauhaardW](https://github.com/SauhaardW) |
-| Blue | 6 | [@BPower0036](https://github.com/BPower0036) |
-
-**:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
-| Player | Wins |
-| ------ | -----|
-| [@antjacquemin](https://github.com/antjacquemin) | 87 |
-| Connect4Bot :robot: | 49 |
-| [@JohnyP36](https://github.com/JohnyP36) | 40 |
-| [@BPower0036](https://github.com/BPower0036) | 28 |
-| [@marcosbarker](https://github.com/marcosbarker) | 24 |
-| [@darshanr27](https://github.com/darshanr27) | 22 |
-| [@totti-rdz](https://github.com/totti-rdz) | 15 |
-| [@shpatrickguo](https://github.com/shpatrickguo) | 9 |
-| [@crxssed7](https://github.com/crxssed7) | 9 |
-| [@SAL778](https://github.com/SAL778) | 7 |
