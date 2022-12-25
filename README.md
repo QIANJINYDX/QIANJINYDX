@@ -7,7 +7,7 @@ I'm XYY, an undergraduate student at IMU.
 
 -   :hammer_and_pick: C++ / Python / Pytorch / C# / Android / Qt
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Taking courses & doing assignments at THU
+-   :seedling: Taking courses & doing assignments at IMU
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
