@@ -1,5 +1,5 @@
-## Hey ! :wave:![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
+## Hey ! :wave:!
+![Visitor Count](https://profile-counter.glitch.me/QIANJINYDX/count.svg)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=QIANJINYDX&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
