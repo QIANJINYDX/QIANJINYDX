@@ -186,8 +186,8 @@ def draw_plot():
             totals,
             color=[model_color, dataset_color],
             width=0.62,
-            edgecolor="#333333",
-            linewidth=0.6,
+            edgecolor="none",
+            linewidth=0,
             zorder=3,
         )
         ax_total.set_title("Total Downloads", pad=8)
