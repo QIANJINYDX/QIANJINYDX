@@ -2,31 +2,47 @@ name: Log Hugging Face Downloads Monthly
 
 on:
   schedule:
-    - cron: "0 1 1 * *"  # 每月 1 号 1:00 UTC 运行
+    - cron: "0 1 1 * *" # 每月 1 号 1:00 UTC 运行
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: hf-download-log
+  cancel-in-progress: true
+
 jobs:
   log-hf-downloads:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.9"
+          python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
-        run: pip install huggingface_hub matplotlib
+        run: |
+          python -m pip install --upgrade pip
+          pip install huggingface_hub matplotlib
 
       - name: Run logging script
         run: python log_hf_downloads.py
 
       - name: Commit and push if changed
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add log_model_download.txt log_dataset_download.txt hf_downloads_chart.png
-          git commit -m "📊 Update HF download logs & chart" || exit 0
+          git config user.name "QIANJINYDX"
+          git config user.email "2282922115@qq.com"
+          git add other/log_model_download.txt other/log_dataset_download.txt other/hf_downloads_chart.png
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "📊 Update HF download logs & chart"
           git push
